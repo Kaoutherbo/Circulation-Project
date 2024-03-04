@@ -19,6 +19,7 @@ The Circulation Project simulates vehicular circulation scenarios, including aut
 
 - **Object-Oriented Modeling**: Utilizes classes and inheritance to model different types of vehicles and drivers.
 - **Dynamic Actions**: Simulates various actions such as driving, falling (for bicycles), and refueling (for automobiles).
+- **Polymorphism Demonstration**: Illustrates polymorphic behavior through the conduit method, allowing a single method to accept different types of vehicles, enhancing flexibility in handling diverse objects.
 - **Error Handling**: Demonstrates runtime errors and how to resolve them using proper casting and class design.
 
 ## Explanations 🛠️
