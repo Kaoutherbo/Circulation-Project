@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb7fe0ef-ce3c-4f15-9aa1-491572945cd0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Circulation Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Automobile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Circulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conducteur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vehicule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Velo.java" afterDir="false" />
-    </list>
+    <list default="true" id="bb7fe0ef-ce3c-4f15-9aa1-491572945cd0" name="Changes" comment="Add Project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,11 +76,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709586955825</updated>
-      <workItem from="1709586956897" duration="2434000" />
+      <workItem from="1709586956897" duration="3402000" />
     </task>
+    <task id="LOCAL-00001" summary="Add Project">
+      <option name="closed" value="true" />
+      <created>1709589648062</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709589648062</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Project" />
   </component>
 </project>

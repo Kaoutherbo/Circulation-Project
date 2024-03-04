@@ -41,3 +41,4 @@ The project includes a `Circulation` class with a `main` method that orchestrate
 - **Integrated Development Environment (IDE)**: Use any Java IDE such as IntelliJ IDEA or Eclipse for development.
 
 ## Execution 💻
+<img src="./Assets/Circulation.PNG" width="100%">

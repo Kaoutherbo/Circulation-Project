@@ -14,15 +14,15 @@ public class Circulation {
         v.tombe(); // To avoid compilation error, 'v' should be of type Velo with a 'tombe' method.
 
         //c.conduit((Automobile) v); // Runtime error, needs casting from Velo to Automobile to fix.
-        // Reason: Casting is required because 'conduit' method expects an argument of type Automobile, and 'v' is of type Velo (a subclass of Vehicule).
+        // Casting is required because 'conduit' method expects an argument of type Automobile, and 'v' is of type Velo (a subclass of Vehicule).
 
         // Valid call to conduit with Object 'a', which is of type Vehicule
         c.conduit(a);
 
         vh = a; // Avoids casting issues; vh now refers to the instance of Automobile.
-        // Reason: 'vh' is declared as Vehicule, and 'a' is of type Automobile, a subclass of Vehicule.
+        // 'vh' is declared as Vehicule, and 'a' is of type Automobile, a subclass of Vehicule.
 
         ((Automobile) vh).faitLePlein(10); // Adding vh = a to avoid uncasting and runtime error.
-        // Reason: Cast is needed because 'vh' is declared as Vehicule, and 'faitLePlein' is a method specific to Automobile (a subclass of Vehicule).
+        // Cast is needed because 'vh' is declared as Vehicule, and 'faitLePlein' is a method specific to Automobile (a subclass of Vehicule).
     }
 }
